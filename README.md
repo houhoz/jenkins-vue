@@ -1,5 +1,7 @@
 # hello-vue
 
+### 此项目是练习jenkins 打包
+
 ## Project setup
 ```
 npm install
